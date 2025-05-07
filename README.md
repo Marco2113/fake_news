@@ -42,8 +42,8 @@ Este proyecto aplica técnicas de **Procesamiento de Lenguaje Natural (NLP)** pa
 ### 1. Clona el repositorio y entra en la carpeta:
 
 ```bash
-git clone https://github.com/tuusuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/Marco2113/fake_news
+cd fake_news
 ```
 
 ### 2. Instala las dependencias:
